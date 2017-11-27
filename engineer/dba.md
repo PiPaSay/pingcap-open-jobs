@@ -1,8 +1,3 @@
----
-title: DBA
-tags: ['engineer']
----
-
 # DBA
 
 #### 岗位职责

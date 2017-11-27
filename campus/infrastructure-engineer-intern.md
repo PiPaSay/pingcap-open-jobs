@@ -1,8 +1,3 @@
----
-title: Infrastructure Engineer Intern
-tags: ['campus']
----
-
 # Infrastructure Engineer Intern
 
 #### 职位描述

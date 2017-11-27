@@ -1,8 +1,3 @@
----
-title: Infrastructure Engineer
-tags: ['campus']
----
-
 # Infrastructure Engineer
 
 #### 职位描述

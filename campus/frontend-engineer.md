@@ -1,8 +1,3 @@
----
-title: Front End Engineer
-tags: ['campus']
----
-
 # Front End Engineer
 
 #### 职位描述
