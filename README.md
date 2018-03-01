@@ -9,7 +9,7 @@ Now, we are hiring! Let’s shape the future of database, together!
 
 ## Job Categories
 + Tech Team
-	- TiKV Development Engineer
+	- [TiKV Development Engineer](/tech/tikv-engineer.md)
 	- PD Development Engineer
 	- TiDB Development Engineer
 	- TiDB 商业产品开发（产品设计方向）
