@@ -8,7 +8,7 @@ We are a young, open and freedom-loving team of a group of curious and skilled t
 Now, we are hiring! Let’s shape the future of database, together!
 
 ## Job Categories
-+ Tech Team
++ **Tech Team**
 	- [TiKV Development Engineer](/tech/tikv-engineer.md)
 	- [PD Development Engineer]()
 	- [TiDB Development Engineer]()
