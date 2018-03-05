@@ -22,7 +22,7 @@ Now, we are hiring! Let’s shape the future of database, together!
 	- [视觉设计经理](/tech/designer.md)
 + Business Team
 	- [行业销售负责人 / 总监](/business/sales-director.md)
-	- [售前技术总监](/business/prsales-director.md)
+	- [售前技术总监](/business/presales-director.md)
 	- [渠道合作总监](/business/channel-director.md)
 	- [高级客户支持工程师](/business/ops-engineer.md)
 	- [商务分析与支持](/business/analysis.md)
