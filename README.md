@@ -10,33 +10,33 @@ Now, we are hiring! Let’s shape the future of database, together!
 ## Job Categories
 + Tech Team
 	- [TiKV Development Engineer](/tech/tikv-engineer.md)
-	- [PD Development Engineer]()
-	- [TiDB Development Engineer]()
-	- [TiDB 商业产品开发 - 产品设计方向]()
-	- [TiDB 商业产品开发 - 工具方向]()
-	- [TiDB 商业产品开发 - Cloud 方向]()
-	- [TiDB 商业产品开发 - SRE 方向]()
-	- [DevOps 运维开发工程师]()
-	- [数据&系统全栈研发工程师]()
-	- [自动化测试工程师]()
-	- [视觉设计经理]()
+	- [PD Development Engineer](/tech/pd-engineer.md)
+	- [TiDB Development Engineer](/tech/tidb-engineer.md)
+	- [TiDB 商业产品开发 - 产品设计方向](/tech/bizdev-fe-engineer.md)
+	- [TiDB 商业产品开发 - 工具方向](/tech/bizdev-tools-engineer.md)
+	- [TiDB 商业产品开发 - Cloud 方向](/tech/bizdev-cloud-engineer.md)
+	- [TiDB 商业产品开发 - SRE 方向](/tech/bizdev-sre-engineer.md)
+	- [DevOps 运维开发工程师](/tech/devops-engineer.md)
+	- [数据&系统全栈研发工程师](/tech/fullstack-engineer.md)
+	- [自动化测试工程师](/tech/test-engineer.md)
+	- [视觉设计经理](/tech/designer.md)
 + Business Team
-	- [行业销售负责人 / 总监]()
-	- [售前技术总监]()
-	- [渠道合作总监]()
-	- [高级客户支持工程师]()
-	- [商务分析与支持]()
+	- [行业销售负责人 / 总监](/business/sales-director.md)
+	- [售前技术总监](/business/prsales-director.md)
+	- [渠道合作总监](/business/channel-director.md)
+	- [高级客户支持工程师](/business/ops-engineer.md)
+	- [商务分析与支持](/business/analysis.md)
 + MKT Team
-	- [PR 经理]()
-	- [市场运营]()
+	- [PR 经理](/mkt/pr-manager.md)
+	- [市场运营](/mkt/mkt-operation.md)
 + I18N Team
-	- [Technical Writer]()
-	- [Technical Writer Intern]()
+	- [Technical Writer](/i18n/technical-writer.md)
 + Back Office Team
-	- [广州 office Admin]()
+	- [广州 office Admin](/backoffice/admin.md)
 + Intern
-	- [Technical Writer Intern]()
-	- [人力资源实习生]()
+	- [Infra Engineer Intern](/intern/infra-engineer-intern.md)
+<!--	- [Technical Writer Intern](/intern/technical-writer-intern.md)-->
+	- [HR Intern](/intern/hr-intern.md)
 	
 ## Contact  me
 
