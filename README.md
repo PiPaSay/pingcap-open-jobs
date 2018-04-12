@@ -31,8 +31,9 @@ Now, we are hiring! Let’s shape the future of database, together!
 	- [市场运营](/mkt/mkt-operation.md)
 + I18N Team
 	- [Technical Writer](/i18n/technical-writer.md)
-+ Back Office Team
-	- [广州 office Admin](/backoffice/admin.md)
+	
+<!-- + Back Office Team
+	- [广州 office Admin](/backoffice/admin.md) -->
 + Intern
 	- [Infra Engineer Intern](/intern/infra-engineer-intern.md)
 	- [HR Intern](/intern/hr-intern.md)
